@@ -1,0 +1,74 @@
+{
+  "theme": {
+    "colors": {
+      "azulPetroleo": "#17394A",
+      "azulEscuro": "#0E2332",
+      "terracota": "#D9783D",
+      "bege": "#F8EEE4",
+      "branco": "#FFFFFF",
+      "cinzaAzulado": "#60727C"
+    },
+    "fonts": {
+      "display": "'Montserrat', sans-serif",
+      "body": "'Lato', sans-serif"
+    }
+  },
+  "profile": {
+    "badgeText": "EN",
+    "eyebrow": "Consultoria",
+    "name": "Elis Nhaia",
+    "subtitle": "Planejamento estratégico para quem decide com clareza",
+    "footer": "© 2026 Elis Nhaia Consultoria"
+  },
+  "links": [
+    {
+      "id": "planejar-para-lucrar",
+      "label": "Planejar para Lucrar — Turma 4",
+      "url": "https://elisnhaiamkt.github.io/planejaparalucrar/",
+      "icon": "planningProfit",
+      "featured": true
+    },
+    {
+      "id": "grupo-whatsapp",
+      "label": "Grupo no WhatsApp",
+      "url": "https://chat.whatsapp.com/JfPpVMzVl1U6pW0Z3qGoP7",
+      "icon": "whatsapp",
+      "featured": false
+    },
+    {
+      "id": "whatsapp",
+      "label": "Fale no WhatsApp",
+      "url": "https://wa.me/5547984657656",
+      "icon": "whatsapp",
+      "featured": false
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/elisnhaiaconsultoria/",
+      "icon": "instagram",
+      "featured": false
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elisnhaiaconsultoria/",
+      "icon": "linkedin",
+      "featured": false
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@elisnhaia",
+      "icon": "youtube",
+      "featured": false
+    },
+    {
+      "id": "bni",
+      "label": "BNI NSC Decision — Perfil",
+      "url": "https://bninsc.com.br/regiao-sc-norte-bni-nsc-decision/pt-BR/memberdetails?encryptedMemberId=zlrYB8zRcBY6z6F5Soh%2F4w%3D%3D&cmsv3=true&name=Elisangela+da+Nhaia",
+      "icon": "bni",
+      "featured": false
+    }
+  ]
+}
