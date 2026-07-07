@@ -27,7 +27,9 @@ function applyTheme(theme) {
 }
 
 function renderProfile(profile) {
-  document.getElementById('badge').textContent = profile.badgeText;
+  const profilePhoto = document.getElementById('profilePhoto');
+  profilePhoto.src = profile.photo;
+  profilePhoto.alt = `Foto de perfil de ${profile.name}`;
   document.getElementById('eyebrow').textContent = profile.eyebrow;
   document.getElementById('name').textContent = profile.name;
   document.getElementById('subtitle').textContent = profile.subtitle;
