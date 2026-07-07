@@ -37,7 +37,7 @@
     },
     {
       "id": "whatsapp",
-      "label": "Fale no WhatsApp",
+      "label": "Fale com a equipe da Elis",
       "url": "https://wa.me/5547984657656",
       "icon": "whatsapp",
       "featured": false
@@ -68,6 +68,13 @@
       "label": "BNI NSC Decision — Perfil",
       "url": "https://bninsc.com.br/regiao-sc-norte-bni-nsc-decision/pt-BR/memberdetails?encryptedMemberId=zlrYB8zRcBY6z6F5Soh%2F4w%3D%3D&cmsv3=true&name=Elisangela+da+Nhaia",
       "icon": "bni",
+      "featured": false
+    },
+    {
+      "id": "avaliacoes-google",
+      "label": "Avaliações no Google",
+      "url": "https://www.google.com/search?q=elis+nhaia+consultoria+e+treinamento&oq=elis+nhaia&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgcIAhAAGO8FMgcIAxAAGO8FMgYIBBBFGDwyBggFEEUYQTIGCAYQRRhBMgYIBxBFGEHSAQg5MjMxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x74f13db97d2e3f5:0x19ab5e46cb9e898c,1,,,,",
+      "icon": "googleReviews",
       "featured": false
     }
   ]
